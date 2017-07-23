@@ -54,14 +54,6 @@
       "fy": 399.2374130166796,
       "nodes": [
         {
-          "text": "1. beginner’s guide to blockchain technology",
-          "url": "http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/",
-          "fx": 380.69457508304924,
-          "fy": 271.7374130166796,
-          "nodes": [],
-          "color": "rgba(255, 189, 10, 1.0)"
-        },
-        {
           "text": "1. minimum viable blockchain  ️",
           "url": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
           "fx": 380.69457508304924,
